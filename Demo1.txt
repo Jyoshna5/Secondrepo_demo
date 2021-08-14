@@ -1,1 +1,2 @@
 My demo file
+Learning how to use git - second line
